@@ -118,6 +118,22 @@ body {
 
 }
 
+.heading {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.heading h2 {
+    font-size: 36px;
+    margin-bottom: 12px;
+}
+
+.heading h3 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
 footer {
     text-align: center;
     background: #ab04cd;
